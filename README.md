@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vajidmvr
-- 👀 I’m interested in coputer
+- 👀 I’m interested in computer
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on sithub
+- 💞️ I’m looking to collaborate on siethub ltd.
 - 📫 How to reach me [...
 ](https://www.instagram.com/vajid.___x/)
 <!---
